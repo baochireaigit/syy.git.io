@@ -1,1 +1,1 @@
-# syy.git.io
+# syy.github.io
